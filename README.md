@@ -4,11 +4,6 @@ This project is a simple file handling system that allows users to create, read,
 
 #Features
 ##Text File Operations
-Read File
-lAllows users to read the content of a text file.
-Write File
-
-Enables users to write text into a file.
-Add Data to File
-
-Appends new text to an existing file.
+Read File- Allows users to read the content of a text file.
+Write File- Enables users to write text into a file.
+Add Data to File- Appends new text to an existing file.
